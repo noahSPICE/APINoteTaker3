@@ -1,0 +1,7 @@
+This is the 11th project for the UCF Bootcamp.
+I apologize about the lack of commits and pushes, long story short, I was having a hard time getting the application to work. I couldn't figure it out for the longest time so I decided to just copy my code and move it to a new repo.
+It took me all but 3 seconds after doing that to realize that I just simply forgot to 'npm i express'...
+That was an unfortunate learning moment for me. 
+Once I did that, all the code that I had copied from my last repo worked (unsurprisingly)!
+
+Nevertheless, this assignment was made to test whether or not we can successfully make different API calls (specifically DELETE, GET and PUSH)
