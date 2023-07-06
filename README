@@ -5,3 +5,5 @@ That was an unfortunate learning moment for me.
 Once I did that, all the code that I had copied from my last repo worked (unsurprisingly)!
 
 Nevertheless, this assignment was made to test whether or not we can successfully make different API calls (specifically DELETE, GET and PUSH)
+
+http://localhost:3001/notes
